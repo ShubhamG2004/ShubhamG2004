@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shubham S. Gavade</h1>
 <h3 align="center">Full-Stack Developer | AI Enthusiast | Cloud-Native Creator</h3>
 
+## 🧩 LeetCode Badges
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/gavadeshubham2004?theme=dark&font=monospace)](https://leetcode.com/gavadeshubham2004/)
+
+![LeetCode Problems](https://img.shields.io/badge/300%2B%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode)
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamg2004&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamg2004" /> </p>
 
 - 🌱 I’m currently learning **Generative AI, Docker, Kubernetes**
