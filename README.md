@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham S. Gavade</h1>
 <h3 align="center">Full-Stack Developer | AI Enthusiast | Cloud-Native Creator</h3>
 
-## 🧩 LeetCode Badges
+## 🧩 LeetCode 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/gavadeshubham2004?theme=dark&font=monospace)](https://leetcode.com/gavadeshubham2004/)
 
