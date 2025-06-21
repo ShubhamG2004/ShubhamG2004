@@ -8,6 +8,8 @@
 ![LeetCode Problems](https://img.shields.io/badge/300%2B%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode)
 
 
+![trophy](https://github-profile-trophy.vercel.app/?username=ShubhamG2004)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamg2004&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamg2004" /> </p>
