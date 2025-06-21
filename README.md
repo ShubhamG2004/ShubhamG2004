@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamg2004&show_icons=true&locale=en" alt="shubhamg2004" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShubhamG2004&theme=microsoft)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShubhamG2004&theme=microsoft&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
