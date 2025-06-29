@@ -7,7 +7,6 @@
 
 ![LeetCode Problems](https://img.shields.io/badge/300%2B%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode)
 
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=ShubhamG2004)
 
 
