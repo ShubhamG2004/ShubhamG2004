@@ -9,15 +9,12 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ShubhamG2004)
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamg2004&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamg2004" /> </p>
 
-- 🌱 I’m currently learning **Generative AI, Docker, Kubernetes**
-
-- 💬 Ask me about **MERN Stack,TensorFlow**
-
+- 🌱 I'm currently learning **Generative AI, Docker, Kubernetes**
+- 💬 Ask me about **MERN Stack, TensorFlow**
 - 📫 How to reach me **gavadeshubham2004@gmail.com**
+- 🌐 Portfolio: [https://vercel.com/shubhamg2004s-projects/my-portfolio](https://vercel.com/shubhamg2004s-projects/my-portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamg2004&show_icons=true&locale=en" alt="shubhamg2004" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShubhamG2004&theme=microsoft&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
