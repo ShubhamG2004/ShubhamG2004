@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning **Generative AI, Docker, Kubernetes**
 - 💬 Ask me about **MERN Stack, TensorFlow**
 - 📫 How to reach me **gavadeshubham2004@gmail.com**
-- 🌐 Portfolio: [https://vercel.com/shubhamg2004s-projects/my-portfolio](https://vercel.com/shubhamg2004s-projects/my-portfolio)
+- 🌐 Portfolio: [https://my-portfolio-silk-five-wcvq4prow3.vercel.app/](https://my-portfolio-silk-five-wcvq4prow3.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
