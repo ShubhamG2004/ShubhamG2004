@@ -62,7 +62,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=ShubhamG2004&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%">
     </td>
     <td width="50%">
-      <img src="https://streak-stats.demolab.com/?user=ShubhamG2004&theme=radical&hide_border=true" alt="GitHub Streak" width="100%">
+<!--       <img src="https://streak-stats.demolab.com/?user=ShubhamG2004&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"> -->
+      <!--       <img src="https://streak-stats.demolab.com?user=ShubhamG2004" alt="GitHub Streak"> -->
     </td>
   </tr>
   
