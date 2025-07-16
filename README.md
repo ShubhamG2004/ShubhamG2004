@@ -75,7 +75,10 @@
 
 ### 💻 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamG2004&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamG2004&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" alt="Top Languages" width="700px">
+
+### STREAK
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShubhamG2004&theme=tokyonight&card_width=700)](https://git.io/streak-stats)
 
 </div>
 ---
