@@ -52,31 +52,33 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ShubhamG2004&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="Stats" width="400">
-      </td>
-     <td>
-  <p align="center">
-    <a href="https://github.com/ShubhamG2004">
-      <img src="https://streak-stats.demolab.com/?user=ShubhamG2004&theme=microsoft-light&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats">
-<!--       <img src="https://streak-stats.demolab.com/?user=ShubhamG2004&theme=dark" alt="GitHub Streak"> -->
-<!--       <img src="https://streak-stats.demolab.com?user=ShubhamG2004" alt="GitHub Streak"> -->
-    </a>
-  </p>
-</td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamG2004&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" alt="Activity Graph" width="100%">
-      </td>
-    </tr>
-  </table>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamG2004&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117" alt="Top Languages">
-</div>
+### 🚀 My Coding Activity
 
+<table>
+  <!-- First Row: Stats + Streak -->
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ShubhamG2004&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%">
+    </td>
+    <td width="50%">
+      <img src="https://streak-stats.demolab.com/?user=ShubhamG2004&theme=radical&hide_border=true" alt="GitHub Streak" width="100%">
+    </td>
+  </tr>
+  
+  <!-- Second Row: Activity Graph -->
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamG2004&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%">
+    </td>
+  </tr>
+</table>
+
+### 💻 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamG2004&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" alt="Top Languages">
+
+</div>
 ---
 
 ## 🏆 Coding Achievements
