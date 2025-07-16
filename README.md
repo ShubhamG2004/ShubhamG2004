@@ -61,8 +61,8 @@
   <p align="center">
     <a href="https://github.com/ShubhamG2004">
 <!--       <img src="https://streak-stats.demolab.com/?user=ShubhamG2004&theme=microsoft-light&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats"> -->
-<!--       <img src="https://streak-stats.demolab.com/?user=ShubhamG2004&theme=dark" alt="GitHub Streak"> -->
-      <img src="https://streak-stats.demolab.com?user=ShubhamG2004" alt="GitHub Streak">
+      <img src="https://streak-stats.demolab.com/?user=ShubhamG2004&theme=dark" alt="GitHub Streak">
+<!--       <img src="https://streak-stats.demolab.com?user=ShubhamG2004" alt="GitHub Streak"> -->
     </a>
   </p>
 </td>
