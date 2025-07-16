@@ -61,9 +61,6 @@
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=ShubhamG2004&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%">
     </td>
-    <td width="50%">
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShubhamG2004&theme=radical&type=png" alt="GitHub Streak" /></a>
-    </td>
   </tr>
   
   <!-- Second Row: Activity Graph -->
@@ -73,6 +70,8 @@
     </td>
   </tr>
 </table>
+
+
 
 ### 💻 Top Languages
 
