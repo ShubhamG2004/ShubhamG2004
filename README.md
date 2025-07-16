@@ -1,33 +1,148 @@
 <h1 align="center">Hi 👋, I'm Shubham S. Gavade</h1>
-<h3 align="center">Full-Stack Developer | AI Enthusiast | Cloud-Native Creator</h3>
 
-## 🧩 LeetCode 
+---
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/gavadeshubham2004?theme=dark&font=monospace)](https://leetcode.com/gavadeshubham2004/)
+## 🚀 About Me
 
-![LeetCode Problems](https://img.shields.io/badge/300%2B%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ShubhamG2004/ShubhamG2004/main/assets/developer.gif" width="300" align="right" alt="Coding Animation">
+  
+  <p align="left">
+    🔭 Passionate about building scalable web applications with cutting-edge technologies<br>
+    🌱 Currently mastering <strong>Generative AI</strong> and <strong>Kubernetes</strong><br>
+    🏻 Strong problem-solver with <strong>300+ LeetCode</strong> solutions<br>
+    💬 Ask me about <strong>React, Node.js, or TensorFlow</strong><br>
+    ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+  </p>
+</div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ShubhamG2004)
+---
+## 🏆 GitHub trophy
+<div align="center">
+![trophy](https://github-profile-trophy.vercel.app/?username=ShubhamG2004&theme=algolia&row=2&column=4&margin-w=15&margin-h=15&no-frame=true)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamg2004&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamg2004" /> </p>
+</div>
 
-- 🌱 I'm currently learning **Generative AI, Docker, Kubernetes**
-- 💬 Ask me about **MERN Stack, TensorFlow**
-- 📫 How to reach me **gavadeshubham2004@gmail.com**
-- 🌐 Portfolio: [https://my-portfolio-silk-five-wcvq4prow3.vercel.app/](https://my-portfolio-silk-five-wcvq4prow3.vercel.app/)
+---
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubham-gavade23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-gavade23" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gavadeshubham2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gavadeshubham2004" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gavadeshubham2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gavadeshubham2004" height="30" width="40" /></a>
+<div align="center">
+
+### **🖥️ Frontend**
+<img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,html,css,js,ts" alt="Frontend" height="40">
+
+### **⚙️ Backend**
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,java,spring" alt="Backend" height="40">
+
+### **🗃️ Databases**
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase" alt="Databases" height="40">
+
+### **☁️ Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,nginx" alt="Cloud" height="40">
+
+### **🧠 AI/ML**
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI" height="40">
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ShubhamG2004&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="Stats" width="400">
+      </td>
+     <td>
+      <p align="center">
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=ShubhamG2004&theme=microsoft&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+        </a>
+      </p>
+    </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamG2004&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" alt="Activity Graph" width="100%">
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamG2004&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117" alt="Top Languages">
+</div>
+
+---
+
+## 🏆 Coding Achievements
+<p align="center">
+  <a href="https://leetcode.com/gavadeshubham2004/">
+    <img src="https://leetcard.jacoblin.cool/gavadeshubham2004?theme=dark&font=monospace" alt="LeetCode Stats">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamg2004&show_icons=true&locale=en&layout=compact" alt="shubhamg2004" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamg2004&show_icons=true&locale=en" alt="shubhamg2004" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShubhamG2004&theme=microsoft&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## 🌟 Current Projects
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/ShubhamG2004/Agronex-AI-Content-Platform">Agronex</a></td>
+      <td>AI-powered content generation platform for creators</td>
+      <td>NextJS, Node.js, TensorFlow, Firebase</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ShubhamG2004/Glaucus-Fish-Detection">Glaucus Fish Detection</a></td>
+      <td>AI assistant that identifies fish species and suggests habitat/health insights</td>
+      <td>Next.js, Gemini API, MongoDB, Firebase</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ShubhamG2004/FinTrack-Anomaly-Detector">FinTrack</a></td>
+      <td>AI-powered expense tracking system with real-time anomaly detection</td>
+      <td>NextJS, Node.js, MongoDB, Clerk</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+</div>
+
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/shubham-gavade23">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:gavadeshubham2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://my-portfolio-silk-five-wcvq4prow3.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://leetcode.com/gavadeshubham2004/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhamg2004&label=Profile+Views&color=7E3ACE&style=flat-square" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/ShubhamG2004?label=Follow&style=social" alt="GitHub Followers">
+</div>
