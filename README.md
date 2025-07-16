@@ -18,10 +18,13 @@
 
 ---
 ## 🏆 GitHub trophy
-<div align="center">
-![trophy](https://github-profile-trophy.vercel.app/?username=ShubhamG2004&theme=algolia&row=2&column=4&margin-w=15&margin-h=15&no-frame=true)
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=ShubhamG2004&theme=algolia&row=2&column=4&margin-w=15&margin-h=15&no-frame=true" 
+    alt="GitHub Trophies" 
+  />
+</p>
 
-</div>
 
 ---
 ## 🛠️ Tech Stack
@@ -56,12 +59,14 @@
         <img src="https://github-readme-stats.vercel.app/api?username=ShubhamG2004&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="Stats" width="400">
       </td>
      <td>
-      <p align="center">
-        <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=ShubhamG2004&theme=microsoft&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-        </a>
-      </p>
-    </td>
+  <p align="center">
+    <a href="https://github.com/ShubhamG2004">
+<!--       <img src="https://streak-stats.demolab.com/?user=ShubhamG2004&theme=microsoft-light&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats"> -->
+<!--       <img src="https://streak-stats.demolab.com/?user=ShubhamG2004&theme=dark" alt="GitHub Streak"> -->
+      <img src="https://streak-stats.demolab.com?user=ShubhamG2004" alt="GitHub Streak">
+    </a>
+  </p>
+</td>
     </tr>
     <tr>
       <td colspan="2">
