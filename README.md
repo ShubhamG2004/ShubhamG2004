@@ -5,8 +5,7 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShubhamG2004/ShubhamG2004/main/assets/developer.gif" width="300" align="right" alt="Coding Animation">
-  
+
   <p align="left">
     🔭 Passionate about building scalable web applications with cutting-edge technologies<br>
     🌱 Currently mastering <strong>Generative AI</strong> and <strong>Kubernetes</strong><br>
