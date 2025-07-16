@@ -11,7 +11,7 @@
     🌱 Currently mastering <strong>Generative AI</strong> and <strong>Kubernetes</strong><br>
     🏻 Strong problem-solver with <strong>300+ LeetCode</strong> solutions<br>
     💬 Ask me about <strong>React, Node.js, or TensorFlow</strong><br>
-    ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+    
   </p>
 </div>
 
@@ -78,7 +78,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamG2004&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" alt="Top Languages" width="700px">
 
 ### STREAK
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShubhamG2004&theme=onedark&card_width=800" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=ShubhamG2004&theme=dracula&card_width=700" alt="GitHub Streak" /></a>
 
 </div>
 
