@@ -16,6 +16,26 @@
 </div>
 
 ---
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/shubham-gavade23">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:gavadeshubham2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://my-portfolio-silk-five-wcvq4prow3.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://leetcode.com/gavadeshubham2004/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
+  </a>
+</div>
+
+
+---
 ## 🏆 GitHub trophy
 <p align="center">
   <img 
@@ -109,17 +129,17 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ShubhamG2004/Agronex-AI-Content-Platform">Agronex</a></td>
+      <td><a href="https://github.com/ShubhamG2004/agronex_next ">Agronex</a></td>
       <td>AI-powered content generation platform for creators</td>
       <td>NextJS, Node.js, TensorFlow, Firebase</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ShubhamG2004/Glaucus-Fish-Detection">Glaucus Fish Detection</a></td>
+      <td><a href="https://github.com/ShubhamG2004/glaucus">Glaucus Fish Detection</a></td>
       <td>AI assistant that identifies fish species and suggests habitat/health insights</td>
       <td>Next.js, Gemini API, MongoDB, Firebase</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ShubhamG2004/FinTrack-Anomaly-Detector">FinTrack</a></td>
+      <td><a href="https://github.com/ShubhamG2004/fintrack">FinTrack</a></td>
       <td>AI-powered expense tracking system with real-time anomaly detection</td>
       <td>NextJS, Node.js, MongoDB, Clerk</td>
     </tr>
@@ -130,24 +150,6 @@
 </div>
 
 
----
-
-## 📫 Let's Connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/shubham-gavade23">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:gavadeshubham2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://my-portfolio-silk-five-wcvq4prow3.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://leetcode.com/gavadeshubham2004/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
-  </a>
-</div>
 
 ---
 
