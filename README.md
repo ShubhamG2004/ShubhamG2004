@@ -136,7 +136,7 @@
     <tr>
       <td><a href="https://github.com/ShubhamG2004/glaucus">Glaucus Fish Detection</a></td>
       <td>AI assistant that identifies fish species and suggests habitat/health insights</td>
-      <td>Next.js, Gemini API, MongoDB, Firebase</td>
+      <td>Next.js, Gemini API,Firebase</td>
     </tr>
     <tr>
       <td><a href="https://github.com/ShubhamG2004/fintrack">FinTrack</a></td>
