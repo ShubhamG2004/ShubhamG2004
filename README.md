@@ -39,7 +39,7 @@
 ## 🏆 GitHub trophy
 <p align="center">
   <img 
-  src="https://github-profile-trophy.vercel.app/?username=ShubhamG2004&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-frame=true" 
+  src="https://github-profile-trophy.vercel.app/?username=ShubhamG2004&theme=monokai&row=2&column=4&margin-w=15&margin-h=15&no-frame=true" 
   alt="GitHub Trophies"
 />
 </p>
