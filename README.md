@@ -103,18 +103,6 @@
 </div>
 
 ---
-
-## 🏆 Coding Achievements
-<p align="center">
-  <a href="https://leetcode.com/gavadeshubham2004/">
-    <img src="https://leetcard.jacoblin.cool/gavadeshubham2004?theme=dark&font=monospace" alt="LeetCode Stats">
-  </a>
-</p>
-
----
-
-
-
 ## 🌟 Current Projects
 
 <div align="center">
