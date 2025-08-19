@@ -10,7 +10,7 @@
     🔭 Passionate about building scalable web applications with cutting-edge technologies<br>
     🌱 Currently mastering <strong>Generative AI</strong> and <strong>Kubernetes</strong><br>
     🏻 Strong problem-solver with <strong>300+ LeetCode</strong> solutions<br>
-    💬 Ask me about <strong>React, Node.js, or TensorFlow</strong><br>
+    💬 Ask me about <strong>React,TensorFlow, PHP, MySQL, MongoDB</strong><br>
     
   </p>
 </div>
