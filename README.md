@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shubham S. Gavade</h1>
 
 ---
+<!-- Animation Section -->
+<div align="center">
+  <lottie-player 
+    src="https://assets6.lottiefiles.com/packages/lf20_c9kj7nrx.json"  
+    background="transparent"  
+    speed="1"  
+    style="width: 300px; height: 300px;"  
+    loop  
+    autoplay>
+  </lottie-player>
+</div>
 
 ## 🚀 About Me
 
