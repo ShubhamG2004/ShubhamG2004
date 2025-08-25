@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham S. Gavade</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Boy coding animation">
+  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="300px" alt="Boy working on laptop">
 </p>
 
 ---
