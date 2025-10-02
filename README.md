@@ -6,6 +6,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340px" alt="Animated developer coding" />
+    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340px" alt="Animated boy coding" />
 </p>
 
 <!-- Animated emoji divider -->
@@ -27,7 +28,7 @@
 ## 🚀 About Me
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00BFFF&width=600&lines=Full-stack+Web+Dev+%F0%9F%92%BB;Generative+AI+Explorer+%F0%9F%A4%96;Kubernetes+Learner+%F0%9F%9A%80;300%2B+LeetCode+Problems+Solved+%F0%9F%92%AA;Hackathon+Fanatic+%F0%9F%8E%89;Building+for+Impact+%F0%9F%92%A1" alt="Animated About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00BFFF&width=600&lines=Full-stack+Web+Dev+%F0%9F%92%BB;Generative+AI+Explorer+%F0%9F%A4%96;300%2B+LeetCode+Problems+Solved+%F0%9F%92%AA;Hackathon+Fanatic+%F0%9F%8E%89;Building+for+Impact+%F0%9F%92%A1" alt="Animated About Me" />
 </p>
 
 - 🧑‍💻 **Always coding, always creating**
@@ -185,5 +186,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7E3ACE&center=true&width=600&lines=Thanks+for+visiting+my+animated+profile!;Let%27s+create+something+amazing+together+%F0%9F%9A%80%F0%9F%A4%96%F0%9F%92%A1" alt="Animated Goodbye" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7E3ACE&center=true&width=600&lines=Thanks+for+visiting+my+profile!;Let%27s+create+something+amazing+together+%F0%9F%9A%80%F0%9F%A4%96%F0%9F%92%A1" alt="Animated Goodbye" />
 </p>
