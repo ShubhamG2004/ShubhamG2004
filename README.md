@@ -10,9 +10,9 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340px" alt="Animated developer coding" />
 </p>
 
-<!-- Animated gradient divider SVG (host in your repo for best effect) -->
+<!-- Animated gradient divider SVG (from files folder) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShubhamG2004/shubhamg2004/main/divider.svg" width="80%" height="12px" alt="animated-gradient-divider"/>
+  <img src="https://github.com/ShubhamG2004/ShubhamG2004/blob/main/main/files/divider.svg" width="80%" height="12px" alt="animated-gradient-divider"/>
 </p>
 
 <!-- Animated profile stats (badges update in real-time) -->
@@ -139,7 +139,7 @@
 
 <!-- Animated gradient divider SVG -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ShubhamG2004/ShubhamG2004/main/files/divider.svg" width="80%" height="12px" alt="animated-gradient-divider"/>
+  <img src="https://github.com/ShubhamG2004/ShubhamG2004/blob/main/main/files/divider.svg" width="80%" height="12px" alt="animated-gradient-divider"/>
 </p>
 
 <!-- Animated Fun Facts -->
