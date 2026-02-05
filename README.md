@@ -128,17 +128,27 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamG2004&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamG2004&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
+  
+**GitHub Stats**
+  
+<img src="https://github-readme-stats.vercel.app/api?username=ShubhamG2004&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" height="180em" alt="GitHub Stats"/>
+
+**Most Used Languages**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamG2004&layout=compact&theme=radical&hide_border=false&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180em" alt="Top Languages"/>
+
+**GitHub Streak**
+
+<img src="https://streak-stats.demolab.com/?user=ShubhamG2004&theme=radical&hide_border=false&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamG2004&layout=compact&theme=radical&hide_border=true&langs_count=10" width="49%" alt="Top Languages" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=ShubhamG2004&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" width="49%" alt="Contribution Stats" />
-</div>
+  
+**Contribution Activity**
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamG2004&theme=github-compact&hide_border=false&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamG2004&theme=radical" width="98%" alt="Contribution Graph" />
 </div>
 
 <!-- Animated emoji divider -->
