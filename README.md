@@ -1,209 +1,199 @@
-<!-- 🌟 Enhanced GitHub Profile README for Shubham S. Gavade 🌟 -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&width=650&height=80&lines=Hi,+I'm+Shubham+S.+Gavade+👋;Full-stack+Developer+💻;AI+Enthusiast+🤖;Open+Source+Contributor+🌟;Let's+Build+Something+Amazing!" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340px" alt="Animated developer coding" />
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="340px" alt="Animated boy coding" />
-</p>
-
-<!-- Animated emoji divider -->
-<p align="center">
-  ✨🌈🚀✨🌈🚀✨🌈🚀✨
-</p>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShubhamG2004&label=Profile+Views&color=00BFFF&style=plastic" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ShubhamG2004?label=Followers&style=social" alt="Followers"/>
-  <img src="https://img.shields.io/badge/dynamic/json?color=7E3ACE&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FShubhamG2004&logo=github&style=plastic" alt="Public Repos"/>
+
+# 👋 Hi, I'm Shubham S. Gavade
+
+### 💻 Full-Stack Developer | 🤖 AI Enthusiast | 🏆 Hackathon Winner
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ShubhamG2004&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/ShubhamG2004)
+[![Followers](https://img.shields.io/github/followers/ShubhamG2004?label=Followers&style=social)](https://github.com/ShubhamG2004?tab=followers)
+[![Stars](https://img.shields.io/github/stars/ShubhamG2004?label=Total%20Stars&style=social)](https://github.com/ShubhamG2004)
+
 </div>
 
-<!-- Animated emoji divider -->
-<p align="center">
-  ⭐🚀⭐🚀⭐🚀⭐🚀
-</p>
+---
 
 ## 🚀 About Me
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00BFFF&width=600&lines=Full-stack+Web+Developer+💻;Generative+AI+Explorer+🤖;300%2B+LeetCode+Problems+Solved+🧠;Hackathon+Winner+🏆" alt="About Me" />
-</p>
+```text
+🎓 Computer Science Engineering Student
+💼 Full-Stack Developer with expertise in modern web technologies
+🤖 Passionate about Generative AI and Machine Learning
+🧠 300+ LeetCode problems solved
+🏆 Multiple hackathon winner (National & State level)
+🌱 Currently exploring Kubernetes and Cloud Technologies
+```
 
-- 🧑‍💻 **Always coding, always creating**
-- 🤖 **Currently obsessed with Generative AI & Kubernetes**
-- 🥇 **300+ LeetCode problems solved**
-- 💬 **Ask me about:** React, Next.js, TensorFlow, PHP, MySQL, MongoDB
-- ✨ **Hackathon winner, open for collaborations!**
-- 🌱 **Learning every day**
+- 🔭 Building AI-powered applications with **React**, **Next.js**, and **TensorFlow**
+- 🌟 Open to **collaborations** on innovative projects
+- 💬 Ask me about: **React, Next.js, Node.js, AI/ML, MongoDB, PostgreSQL**
+- 📫 Reach me at: [gavadeshubham2004@gmail.com](mailto:gavadeshubham2004@gmail.com)
+- ⚡ Fun fact: I turn coffee into code ☕ → 💻
 
-<!-- Animated emoji divider -->
-<p align="center">
-  🌊✨🌊✨🌊✨🌊✨🌊
-</p>
+---
 
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/shubham-gavade23"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:gavadeshubham2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://my-portfolio-silk-five-wcvq4prow3.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://github.com/ShubhamG2004"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-gavade23)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gavadeshubham2004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-silk-five-wcvq4prow3.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/gavadeshubham2004/)
+
 </div>
 
-<!-- Animated emoji divider -->
-<p align="center">
-  🟣🔵🟠🟢🔴🟣🔵🟠🟢🔴
-</p>
+---
 
-## 🏅 Achievements
+## 🏅 Achievements & Awards
 
-<p align="center">
-  <!-- Banner headline as emoji for maximum compatibility -->
-  <span style="font-size:2em; font-weight:bold;">🏆 Major Wins & Honors</span>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.icons8.com/color/64/000000/trophy.png" height="48" alt="Trophy">
-  <img src="https://img.icons8.com/color/64/000000/medal-second-place.png" height="48" alt="Medal">
-</p>
+| 🏆 Position | 🎯 Event | 📅 Year |
+|------------|----------|---------|
+| 🥇 **Winner** | **FinServe National Hackathon**<br/>Data Structures & Algorithms (DSA) and FinTech | 2024 |
+| 🥇 **Winner** | **Techno-Enhance State-Level Web Design Competition** | 2023 |
+| 🥈 **Runner-Up** | **AIZureStack Hackathon**<br/>Artificial Intelligence (AI) and Microsoft Azure | 2025 |
 
-<!-- Table with three awards (plain markdown, always works on GitHub) -->
-<table align="center" width="100%">
-  <tr>
-    <th align="center" width="120">🏅 Position</th>
-    <th align="center" width="340">📋 Event & Year</th>
-  </tr>
-  <tr>
-    <td align="center" style="font-weight:bold; color:#FFD700;">
-      🥇 Winner
-    </td>
-    <td>
-      <b>FinServe National Hackathon</b><br>
-      Data Structures & Algorithms (DSA) and FinTech<br>
-      <span style="color:#888;">2024</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="font-weight:bold; color:#00BFFF;">
-      🥇 Winner
-    </td>
-    <td>
-      <b>Techno-Enhance State-Level Web Design Competition</b><br>
-      <span style="color:#888;">2023</span>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="font-weight:bold; color:#7E3ACE;">
-      🥈 Runner-Up
-    </td>
-    <td>
-      <b>AIZureStack Hackathon</b><br>
-      Artificial Intelligence (AI) and Microsoft Azure<br>
-      <span style="color:#888;">2025</span>
-    </td>
-  </tr>
-</table>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShubhamG2004&theme=onestar&margin-w=15&margin-h=15&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+<div align="center">
 
-<p align="center" style="font-size:1.3em;">
-  🏆🥇🥈🚀🎖️
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShubhamG2004&theme=algolia&no-frame=true&row=1&column=7&margin-w=10&margin-h=10)
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,redux,tailwind,html,css,js,ts,nodejs,express,nestjs,python,java,spring,mongodb,mysql,postgres,redis,firebase,aws,docker,kubernetes,githubactions,git,linux,vscode&perline=13" alt="Tech Stack" />
-</p>
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<!-- Animated emoji divider -->
-<p align="center">
-  ⭐🌈⭐🌈⭐🌈⭐🌈⭐
-</p>
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **AI/ML & Cloud**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### **Tools & Others**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
   
-**GitHub Stats**
-  
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamG2004&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" height="180em" alt="GitHub Stats"/>
-
-**Most Used Languages**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamG2004&layout=compact&theme=radical&hide_border=false&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180em" alt="Top Languages"/>
-
-**GitHub Streak**
-
-<img src="https://streak-stats.demolab.com/?user=ShubhamG2004&theme=radical&hide_border=false&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShubhamG2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Shubham's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamG2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Most Used Languages"/>
 
 </div>
 
 <div align="center">
   
-**Contribution Activity**
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamG2004&theme=github-compact&hide_border=false&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=ShubhamG2004&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
-
-<!-- Animated emoji divider -->
-<p align="center">
-  🔥🔥🔥🔥🔥🔥🔥🔥🔥
-</p>
-
-## 🚧 Featured Projects
 
 <div align="center">
-<table>
-  <thead>
-    <tr>
-      <th>🔗 Project</th>
-      <th>✨ Description</th>
-      <th>🛠️ Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/ShubhamG2004/agronex_next"><b>Agronex</b></a></td>
-      <td>AI-powered agricultural content generation platform for farmers</td>
-      <td>Next.js, Node.js, TensorFlow, Firebase</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ShubhamG2004/glaucus"><b>Glaucus Fish Detection</b></a></td>
-      <td>AI assistant for fish species identification & habitat information</td>
-      <td>Next.js, Gemini API, Firebase</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ShubhamG2004/fintrack"><b>FinTrack</b></a></td>
-      <td>AI-based expense tracker with anomaly detection alerts</td>
-      <td>Next.js, Node.js, MongoDB, Clerk</td>
-    </tr>
-  </tbody>
-</table>
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShubhamG2004&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&custom_title=Contribution%20Activity)
+
 </div>
-
-<!-- Animated emoji divider -->
-<p align="center">
-  ✨✨✨✨✨✨✨✨✨
-</p>
-
-## 🎉 Fun Facts
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00BFFF&width=600&lines=Hackathon+fanatic+🎉;Code+for+impact+💡;Always+learning+📚;Coffee+%2B+Code+%3D+Magic+☕" alt="Fun Facts" />
-</p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7E3ACE&center=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+create+something+amazing+together!+🚀" alt="Thanks" />
-</p>
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
-</p>
+<div align="center">
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **🌾 Agronex** | AI-powered agricultural content generation platform for farmers | Next.js, TensorFlow, Firebase, Node.js | [View →](https://github.com/ShubhamG2004/agronex_next) |
+| **🐟 Glaucus** | Fish species detection and habitat analysis AI assistant | Next.js, Gemini API, Firebase | [View →](https://github.com/ShubhamG2004/glaucus) |
+| **💰 FinTrack** | AI-based expense tracker with anomaly detection and alerts | Next.js, MongoDB, Node.js, Clerk | [View →](https://github.com/ShubhamG2004/fintrack) |
+
+</div>
+
+---
+
+## 📈 LeetCode Stats
+
+<div align="center">
+
+**300+ Problems Solved** 🧠 | **Active Problem Solver** 💪
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/gavadeshubham2004?theme=dark&font=Ubuntu&ext=heatmap)](https://leetcode.com/gavadeshubham2004/)
+
+</div>
+
+---
+
+## 💡 Current Focus
+
+```javascript
+const shubham = {
+    learning: ["Kubernetes", "Generative AI", "System Design"],
+    building: ["AI-powered applications", "Full-stack projects"],
+    interests: ["Cloud Computing", "Machine Learning", "DevOps"],
+    goal: "Build impactful tech solutions that make a difference",
+    availability: "Open for internships and collaborations"
+};
+```
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Contribute to more open-source projects
+- ✅ Master Kubernetes and microservices architecture
+- ✅ Build production-ready AI applications
+- ✅ Participate in international hackathons
+- ✅ Mentor aspiring developers
+
+---
+
+<div align="center">
+
+### 💭 Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎉 Thanks for visiting! Let's build something amazing together! 🚀
+
+**⭐️ From [ShubhamG2004](https://github.com/ShubhamG2004)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
