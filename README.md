@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Shubham Gavade
+# 👋 Hi, I'm Shubham S. Gavade
 
 ### 💻 Full-Stack Developer | 🤖 AI Enthusiast | 🏆 Hackathon Winner
 
