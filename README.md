@@ -12,21 +12,33 @@
 
 ---
 
+## 📑 Quick Navigation
+
+<div align="center">
+
+[About](#-about-me) • [Connect](#-connect-with-me) • [Achievements](#-achievements--awards) • [Tech Stack](#️-tech-stack) • [Projects](#-featured-projects) • [GitHub Stats](#-github-statistics) • [LeetCode](#-leetcode-stats) • [Goals](#-2026-goals)
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 ```text
-🎓 Computer Science Engineering Student
-💼 Full-Stack Developer with expertise in modern web technologies
+🎓 Computer Science Engineering Student (Final Year)
+💼 Full-Stack Developer with 2+ years of hands-on experience
 🤖 Passionate about Generative AI and Machine Learning
-🧠 300+ LeetCode problems solved
+🧠 300+ LeetCode problems solved | Active competitive programmer
 🏆 Multiple hackathon winner (National & State level)
 🌱 Currently exploring Kubernetes and Cloud Technologies
+🚀 Building scalable, production-ready applications
 ```
 
 - 🔭 Building AI-powered applications with **React**, **Next.js**, and **TensorFlow**
-- 🌟 Open to **collaborations** on innovative projects
+- 🌟 Open to **internships** and **collaborations** on innovative AI/ML and Full-Stack projects
 - 💬 Ask me about: **React, Next.js, Node.js, AI/ML, MongoDB, PostgreSQL**
 - 📫 Reach me at: [gavadeshubham2004@gmail.com](mailto:gavadeshubham2004@gmail.com)
+- 🤝 Looking to contribute to **Open Source** projects in AI/ML and Web Development
 - ⚡ Fun fact: I turn coffee into code ☕ → 💻
 
 ---
@@ -134,9 +146,11 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **🌾 Agronex** | AI-powered agricultural content generation platform for farmers | Next.js, TensorFlow, Firebase, Node.js | [View →](https://github.com/ShubhamG2004/agronex_next) |
-| **🐟 Glaucus** | Fish species detection and habitat analysis AI assistant | Next.js, Gemini API, Firebase | [View →](https://github.com/ShubhamG2004/glaucus) |
-| **💰 FinTrack** | AI-based expense tracker with anomaly detection and alerts | Next.js, MongoDB, Node.js, Clerk | [View →](https://github.com/ShubhamG2004/fintrack) |
+| **🌾 Agronex** | AI-powered agricultural content generation platform for farmers with multilingual support | Next.js, TensorFlow, Firebase, Node.js | [View →](https://github.com/ShubhamG2004/agronex_next) |
+| **🐟 Glaucus** | Fish species detection and habitat analysis AI assistant using computer vision | Next.js, Gemini API, Firebase | [View →](https://github.com/ShubhamG2004/glaucus) |
+| **💰 FinTrack** | AI-based expense tracker with anomaly detection, smart alerts, and predictive analytics | Next.js, MongoDB, Node.js, Clerk | [View →](https://github.com/ShubhamG2004/fintrack) |
+
+*Each project demonstrates real-world problem-solving with AI/ML integration and scalable architecture*
 
 </div>
 
@@ -158,11 +172,13 @@
 
 ```javascript
 const shubham = {
-    learning: ["Kubernetes", "Generative AI", "System Design"],
-    building: ["AI-powered applications", "Full-stack projects"],
-    interests: ["Cloud Computing", "Machine Learning", "DevOps"],
-    goal: "Build impactful tech solutions that make a difference",
-    availability: "Open for internships and collaborations"
+    learning: ["Kubernetes & Container Orchestration", "Advanced Generative AI (LLMs)", "System Design & Architecture"],
+    building: ["AI-powered SaaS applications", "Microservices with Next.js & NestJS"],
+    interests: ["Cloud-Native Development", "MLOps & AI Deployment", "DevOps Automation"],
+    currentProject: "Building an AI-powered developer productivity tool",
+    goal: "Build impactful tech solutions that solve real-world problems",
+    availability: "Open for internships, collaborations, and open-source contributions",
+    lookingFor: ["Full-Stack Developer Internships", "AI/ML Project Collaborations", "Open Source Contributions"]
 };
 ```
 
@@ -170,11 +186,11 @@ const shubham = {
 
 ## 🎯 2026 Goals
 
-- ✅ Contribute to more open-source projects
-- ✅ Master Kubernetes and microservices architecture
-- ✅ Build production-ready AI applications
-- ✅ Participate in international hackathons
-- ✅ Mentor aspiring developers
+- ⏳ Contribute to more open-source projects
+- ⏳ Master Kubernetes and microservices architecture
+- ⏳ Build production-ready AI applications
+- ⏳ Participate in international hackathons
+- ⏳ Mentor aspiring developers
 
 ---
 
@@ -190,9 +206,13 @@ const shubham = {
 
 <div align="center">
 
-### 🎉 Thanks for visiting! Let's build something amazing together! 🚀
+### 🎉 Thanks for visiting!
 
-**⭐️ From [ShubhamG2004](https://github.com/ShubhamG2004)**
+💼 **Open for opportunities:** Full-Stack Developer Internships | AI/ML Projects | Open Source Collaborations
+
+📬 **Let's connect:** Reach out for project collaborations, tech discussions, or just to say hi!
+
+**⭐️ From [ShubhamG2004](https://github.com/ShubhamG2004)** | 🚀 *Building the future, one commit at a time*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
