@@ -172,8 +172,8 @@
 
 ```javascript
 const shubham = {
-    learning: ["Kubernetes & Container Orchestration", "Advanced Generative AI (LLMs)", "System Design & Architecture"],
-    building: ["AI-powered SaaS applications", "Microservices with Next.js & NestJS"],
+    learning: ["Kubernetes & Container Orchestration", "Generative AI & LLMs", "System Design & Architecture"],
+    building: ["AI-Powered SaaS Applications", "Microservices with Next.js & NestJS"],
     interests: ["Cloud-Native Development", "MLOps & AI Deployment", "DevOps Automation"],
     currentProject: "Building an AI-powered developer productivity tool",
     goal: "Build impactful tech solutions that solve real-world problems",
