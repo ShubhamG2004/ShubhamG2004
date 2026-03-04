@@ -37,7 +37,7 @@
 - 🔭 Building AI-powered applications with **React**, **Next.js**, and **TensorFlow**
 - 🌟 Open to **internships** and **collaborations** on innovative AI/ML and Full-Stack projects
 - 💬 Ask me about: **React, Next.js, Node.js, AI/ML, MongoDB, PostgreSQL**
-- 📫 Reach me at: [gavadeshubham2004@gmail.com](mailto:gavadeshubham2004@gmail.com)
+- 📫 Reach me at: [shubhamga1323@gmail.com](mailto:shubhamga1323@gmail.com)
 - 🤝 Looking to contribute to **Open Source** projects in AI/ML and Web Development
 - ⚡ Fun fact: I turn coffee into code ☕ → 💻
 
