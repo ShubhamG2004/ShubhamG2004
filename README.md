@@ -25,7 +25,7 @@
 ## 🚀 About Me
 
 ```text
-🎓 Computer Science Engineering Student (Final Year)
+🎓 Electrons and Computer Engineering Student (Final Year)
 💼 Full-Stack Developer with 2+ years of hands-on experience
 🤖 Passionate about Generative AI and Machine Learning
 🧠 300+ LeetCode problems solved | Active competitive programmer
