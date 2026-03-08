@@ -1,169 +1,195 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Shubham%20S.%20Gavade&fontSize=45&fontColor=ffffff&animation=fadeIn" /><div align="center">👋 Hello World, I'm Shubham Gavade
+<div align="center">  👋 Hi, I'm Shubham S. Gavade
 
 💻 Full-Stack Developer | 🤖 AI Enthusiast | 🏆 Hackathon Winner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Next.js+%7C+Node.js+%7C+TensorFlow;300%2B+LeetCode+Problems+Solved;Open+Source+Contributor" />""Profile Views" (https://komarev.com/ghpvc/?username=ShubhamG2004&label=Profile+Views&color=0e75b6&style=flat)" (https://github.com/ShubhamG2004)
-""Followers" (https://img.shields.io/github/followers/ShubhamG2004?label=Followers&style=social)" (https://github.com/ShubhamG2004?tab=followers)
-""Stars" (https://img.shields.io/github/stars/ShubhamG2004?label=Total%20Stars&style=social)" (https://github.com/ShubhamG2004)
 
-</div>---
+
+
+
+</div>  
+---
+
+📑 Quick Navigation
+
+<div align="center">  About • Connect • Achievements • Tech Stack • Projects • GitHub Stats • LeetCode • Goals
+
+</div>  
+---
 
 🚀 About Me
 
-Name: Shubham Suresh Gavade
-Education: B.E. Electronics & Computer Engineering
-University: Savitribai Phule Pune University
-Experience: 2+ Years Full Stack Development
-Interests: AI, Machine Learning, Cloud, Scalable Systems
-LeetCode: 300+ Problems Solved
+🎓 Electrons and Computer Engineering Student (Final Year)  
+💼 Full-Stack Developer with 2+ years of hands-on experience  
+🤖 Passionate about Generative AI and Machine Learning  
+🧠 300+ LeetCode problems solved | Active competitive programmer  
+🏆 Multiple hackathon winner (National & State level)  
+🌱 Currently exploring Kubernetes and Cloud Technologies  
+🚀 Building scalable, production-ready applications
 
-💡 Passionate developer building AI-powered and scalable applications
+🔭 Building AI-powered applications with React, Next.js, and TensorFlow
 
-- 🔭 Currently working on AI-powered web applications
-- 🌱 Learning Kubernetes, System Design, and MLOps
-- 💬 Ask me about Next.js, Node.js, React, AI/ML
-- 🚀 Building production-ready SaaS platforms
-- 🎯 Goal: Become a world-class AI + Systems Engineer
+🌟 Open to internships and collaborations on innovative AI/ML and Full-Stack projects
 
----
+💬 Ask me about: React, Next.js, Node.js, AI/ML, MongoDB, PostgreSQL
 
-🌐 Connect With Me
+📫 Reach me at: shubhamga1323@gmail.com
 
-<div align="center"><a href="https://linkedin.com/in/shubham-gavade23">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="mailto:gavadeshubham2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><a href="https://leetcode.com/gavadeshubham2004">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a><a href="https://my-portfolio-silk-five-wcvq4prow3.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a></div>---
+🤝 Looking to contribute to Open Source projects in AI/ML and Web Development
 
-🏆 Achievements
+⚡ Fun fact: I turn coffee into code ☕ → 💻
 
-🥇 Winner — FinServe National Hackathon (2024)
-🥇 Winner — Techno-Enhance State Web Design Competition (2023)
-🥈 Runner-Up — AIZureStack AI Hackathon (2025)
+
 
 ---
 
-🧠 Tech Stack
+🔗 Connect With Me
 
-💻 Languages
+<div align="center">  
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts"/>
-</p>---
 
-🎨 Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css"/>
-</p>---
 
-⚙️ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
-</p>---
-
-🗄 Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redis"/>
-</p>---
-
-☁️ Cloud & DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,githubactions"/>
-</p>---
-
-🚀 Featured Projects
-
-🌾 Agronex
-
-AI platform that generates agriculture insights for farmers
-
-Tech:
-
-Next.js | TensorFlow | Firebase | Node.js
-
+</div>  
 ---
 
-🐟 Glaucus
+🏅 Achievements & Awards
 
-AI assistant that detects fish species and habitat
+<div align="center">  🏆 Position	🎯 Event	📅 Year
 
-Tech:
+🥇 Winner	FinServe National Hackathon<br/>Data Structures & Algorithms (DSA) and FinTech	2024
+🥇 Winner	Techno-Enhance State-Level Web Design Competition	2023
+🥈 Runner-Up	AIZureStack Hackathon<br/>Artificial Intelligence (AI) and Microsoft Azure	2025
 
-Next.js | Gemini API | Firebase
 
+</div>  <div align="center">  
+
+</div>  
 ---
 
-💰 FinTrack
+🛠️ Tech Stack
 
-AI powered expense tracker with anomaly detection
+Frontend Development
 
-Tech:
 
-Next.js | MongoDB | Node.js | Clerk
+
+
+
+
+
+
+
+
+Backend Development
+
+
+
+
+
+
+
+
+Databases
+
+
+
+
+
+
+
+AI/ML & Cloud
+
+
+
+
+
+
+Tools & Others
+
+
+
+
+
+
 
 ---
 
 📊 GitHub Statistics
 
-<div align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=ShubhamG2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamG2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/></div>---
+<div align="center">  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShubhamG2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Shubham's GitHub Stats"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamG2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Most Used Languages"/>  </div>  <div align="center">  
 
-🔥 GitHub Streak
+</div>  <div align="center">  
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=ShubhamG2004&theme=tokyonight&hide_border=true&background=0D1117"/></div>---
+</div>  
+---
 
-📈 Contribution Graph
+🚀 Featured Projects
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamG2004&theme=tokyo-night&hide_border=true"/></div>---
+<div align="center">  Project	Description	Tech Stack	Links
 
-🧠 LeetCode Stats
+🌾 Agronex	AI-powered agricultural content generation platform for farmers with multilingual support	Next.js, TensorFlow, Firebase, Node.js	View →
+🐟 Glaucus	Fish species detection and habitat analysis AI assistant using computer vision	Next.js, Gemini API, Firebase	View →
+💰 FinTrack	AI-based expense tracker with anomaly detection, smart alerts, and predictive analytics	Next.js, MongoDB, Node.js, Clerk	View →
 
-<div align="center"><img src="https://leetcard.jacoblin.cool/gavadeshubham2004?theme=dark&font=Ubuntu&ext=heatmap"/></div>---
 
-🎯 2026 Goals
+Each project demonstrates real-world problem-solving with AI/ML integration and scalable architecture
 
-✔ Master System Design
-✔ Build AI SaaS products
-✔ Contribute to major open-source projects
-✔ Participate in international hackathons
-✔ Build AI tools used by thousands
+</div>  
+---
 
+📈 LeetCode Stats
+
+<div align="center">  300+ Problems Solved 🧠 | Active Problem Solver 💪
+
+
+
+</div>  
 ---
 
 💡 Current Focus
 
-const shubham = {
-  learning: [
-    "Kubernetes",
-    "System Design",
-    "Generative AI",
-    "MLOps"
-  ],
-  building: [
-    "AI SaaS Platforms",
-    "Next.js Microservices",
-    "AI Automation Systems"
-  ],
-  goal: "Build impactful AI technology"
-}
+const shubham = {  
+    learning: ["Kubernetes & Container Orchestration", "Generative AI & LLMs", "System Design & Architecture"],  
+    building: ["AI-Powered SaaS Applications", "Microservices with Next.js & NestJS"],  
+    interests: ["Cloud-Native Development", "MLOps & AI Deployment", "DevOps Automation"],  
+    currentProject: "Building an AI-powered developer productivity tool",  
+    goal: "Build impactful tech solutions that solve real-world problems",  
+    availability: "Open for internships, collaborations, and open-source contributions",  
+    lookingFor: ["Full-Stack Developer Internships", "AI/ML Project Collaborations", "Open Source Contributions"]  
+};
+
 
 ---
 
-💭 Developer Quote
+🎯 2026 Goals
 
-<div align="center">https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight
+⏳ Contribute to more open-source projects
 
-</div>---
+⏳ Master Kubernetes and microservices architecture
 
-<div align="center">⭐ If you like my work, consider starring my repositories
+⏳ Build production-ready AI applications
 
-🚀 Building the future, one commit at a time
+⏳ Participate in international hackathons
 
-</div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+⏳ Mentor aspiring developers
+
+
+
+---
+
+<div align="center">  💭 Dev Quote
+
+
+
+</div>  
+---
+
+<div align="center">  🎉 Thanks for visiting!
+
+💼 Open for opportunities: Full-Stack Developer Internships | AI/ML Projects | Open Source Collaborations
+
+📬 Let's connect: Reach out for project collaborations, tech discussions, or just to say hi!
+
+⭐️ From ShubhamG2004 | 🚀 Building the future, one commit at a time
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>  </div>  
