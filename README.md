@@ -139,7 +139,7 @@
 
 ---
 
-# 🎯 Random Dev Quote
+# 🎯  Quote
 
 <p align="center">
 
